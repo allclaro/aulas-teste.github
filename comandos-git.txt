@@ -3,6 +3,7 @@ Aula 003
 git config
 git status
 git clone
-git add
+git diff = ele mostra as diferenças do snapshot
+
 
 esta sendo editado agora.
