@@ -1,0 +1,3 @@
+add outro arquivo pra teste
+
+git diff - 
