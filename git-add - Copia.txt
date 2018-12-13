@@ -1,3 +1,0 @@
-Git add
-
-adiciona arquivos na area de preparação.
