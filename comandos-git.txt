@@ -3,3 +3,5 @@ Aula 003
 git config
 git status
 git clone
+
+esta sendo editado agora.
