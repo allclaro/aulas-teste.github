@@ -1,0 +1,13 @@
+lista de comandos git 
+
+Esta lista esta subscritos os comando
+
+
+git init
+git add
+git commit 
+git reset
+git log 
+git push
+git pull
+git status
